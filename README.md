@@ -4,14 +4,14 @@ Feladat vállalása:
 Könyvek és idézetek nyílvántartása webes felületen (Mini-moly.hu)
 
 <b>Funkcionális követelmények:</b>
-<p>-Vendégként:
+<p><i>Vendégként:</i>
 <ul>
 <li> szeretnék szabadon könyvekre keresni </li>
 <li> szeretnék regisztrálni, illetve belépni ha ezt megtettem </li> 
 <li> szeretnék olvasni könyvek általános információiról </li>
 </ul></p>
         
-<p>-Felhasználóként:
+<p><i>Felhasználóként:</i>
 <ul>
 <li> szeretnék belépni az oldalra </li> 
 <li> szeretném az olvasott könyveket bejelölni </li> 
