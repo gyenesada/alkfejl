@@ -67,4 +67,22 @@ könyvnek minősített.</li>
 <ul><li>  Hozzáadás a listához</li> <li>  Törlés a listáról </li> </ul> 
 </ul>
 
+<p><b>Végpontok</b><p>
+<ul>
+<li> <b> GET/:</b> főoldal</li> 
+<li> <b> GET/login:</b> bejelentkező oldal</li> 
+<li> <b> POST/login:</b> bejelentkezési adatok feltöltése</li> 
+<li> <b> GET/profile:</b> profiladatok lekérése</li> 
+<li> <b> GET/books:</b> könyvlista</li> 
+<li> <b> GET/books/:id:</b> könyv megtekintése</li> 
+<li> <b> GET/books/:quotes:</b> könyv idézeteinek megtekintése</li> 
+<li> <b> GET/books/:create:</b> új könyv felvitele, és űrlap megtekintése</li> 
+<li> <b> POST/books/:create:</b> új könyv felvitele, adatok küldése</li> 
+<li> <b> GET/books/:quotes/:create:</b> új idézet felvitele, és űrlap megtekintése</li>
+<li> <b> POST/books/:quotes/:create:</b> új idézet adatainak beküldése</li> 
+<li> <b> GET/profile/:favorites:</b> kedvenc könyvek megtekintése</li> 
+<li> <b> GET/profile/:own: </b> saját könyvek megtekintése</li> 
+<li> <b> GET/profile/:read:</b> olvasott könyvek megtekintése</li> 
 
+
+</ul>
