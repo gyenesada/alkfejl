@@ -22,14 +22,15 @@ Könyvek és idézetek nyílvántartása webes felületen (Mini-moly.hu)
 <li> szeretnék kijelentkezni </li>
 </ul></p>
 
-
-
 <b>Nem funkcionális követelmények: </b>
 <ul>
 <li> Felhasználóbarát </li>
 <li> Biztonságos </li>
 <li> Gyors hozzáférés </li> 
 </ul>
+
+<p><b>Use-case diagram</b></p>
+![Use-case diagram](imgs/usecase.png)
         
 <p><b>Szakterületi fogalomjegyzék</b> </p>
 <ul> 
@@ -76,7 +77,7 @@ könyvnek minősített.</li>
 <li> <b> POST/login:</b> bejelentkezési adatok feltöltése</li> 
 <li> <b> GET/profile:</b> profiladatok lekérése</li> 
 <li> <b> GET/books:</b> könyvlista</li> 
-<li> <b> GET/books/:id:</b> könyv megtekintése</li> 
+<li> <b> GET/books/:id :</b> könyv megtekintése</li> 
 <li> <b> GET/books/:quotes:</b> könyv idézeteinek megtekintése</li> 
 <li> <b> GET/books/:create:</b> új könyv felvitele, és űrlap megtekintése</li> 
 <li> <b> POST/books/:create:</b> új könyv felvitele, adatok küldése</li> 
@@ -86,3 +87,16 @@ könyvnek minősített.</li>
 <li> <b> GET/profile/:own: </b> saját könyvek megtekintése</li> 
 <li> <b> GET/profile/:read:</b> olvasott könyvek megtekintése</li> 
 </ul>
+
+<p><b>Oldalvázlat</b></p>
+<p>Főoldal</p>
+![Use-case diagram](imgs/main.png)
+<p>Profil</p>
+![Use-case diagram](imgs/profile.png)3
+<p>Könyv adatok</p>
+![Use-case diagram](imgs/book infos.png)
+<p>Keresési találatok / kedvenc könyvek..stb (Könyvek listája)</p>
+![Use-case diagram](imgs/book-list.png)
+<p>Új könyv/idézet hozzáadása</p>
+![Use-case diagram](imgs/add-new-book.png)
+
