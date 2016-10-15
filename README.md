@@ -32,6 +32,8 @@ Könyvek és idézetek nyílvántartása webes felületen (Mini-moly.hu)
 <p><b>Use-case diagram</b></p>
 ![Use-case diagram](imgs/usecase.png)
         
+<p><b>Adatmodellek</b></p>        
+![Adatmodellek](imgs/adatmod.png)
 <p><b>Szakterületi fogalomjegyzék</b> </p>
 <ul> 
 <li><b>Könyv:</b> Bármilyen nyelven íródott szöveget és/vagy képeket tartalmazó
@@ -70,6 +72,15 @@ könyvnek minősített.</li>
 <ul><li>  Hozzáadás a listához</li> <li>  Törlés a listáról </li> </ul> 
 </ul>
 
+<p><b>Folyamatok meghatározása</b></p>
+<p>Új könyv, illetve idézet felvitele felhasználók számára</p>
+![Új könyv foly.](imgs/first.png)
+<p>Könyvvel való viszony szerkesztése felhasználók számára</p>
+![fav/own/read](imgs/second.png)
+<p>Új könyv felvitelének folyamata</p> 
+![új könyv](imgs/third.png)
+<p><i>Hasonló sémára működik továbbá: Új idézet felvitele, profiladatok szerkesztése</i></p>
+
 <p><b>Végpontok</b><p>
 <ul>
 <li> <b> GET/:</b> főoldal</li> 
@@ -90,13 +101,13 @@ könyvnek minősített.</li>
 
 <p><b>Oldalvázlat</b></p>
 <p>Főoldal</p>
-![Use-case diagram](imgs/main.png)
+![Főoldal](imgs/main.png)
 <p>Profil</p>
-![Use-case diagram](imgs/profile.png)3
+![Profiladatok](imgs/profile.png)3
 <p>Könyv adatok</p>
-![Use-case diagram](imgs/book infos.png)
+![Könyv információk](imgs/book infos.png)
 <p>Keresési találatok / kedvenc könyvek..stb (Könyvek listája)</p>
-![Use-case diagram](imgs/book-list.png)
+![Könyvek listázása](imgs/book-list.png)
 <p>Új könyv/idézet hozzáadása</p>
-![Use-case diagram](imgs/add-new-book.png)
+![Új hozzáadás](imgs/add-new-book.png)
 
