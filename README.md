@@ -1,6 +1,4 @@
-# alkfejl
-
-1. Beadandó
+# 1. Beadandó
 
 Feladat vállalása: 
 Könyvek és idézetek nyílvántartása webes felületen (Mini-moly.hu)
