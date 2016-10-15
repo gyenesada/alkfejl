@@ -9,8 +9,6 @@ Könyvek és idézetek nyílvántartása webes felületen (Mini-moly.hu)
 <li> szeretnék szabadon könyvekre keresni </li>
 <li> szeretnék regisztrálni, illetve belépni ha ezt megtettem </li> 
 <li> szeretnék olvasni könyvek általános információiról </li>
-<li> szeretnék idézetek között keresni </li>
-<li> szeretném más felhasználók profilját megtekinteni </li>
 </ul></p>
         
 <p>-Felhasználóként:
@@ -20,7 +18,11 @@ Könyvek és idézetek nyílvántartása webes felületen (Mini-moly.hu)
 <li> szeretnék új könyvet/idézetet hozzáadni </li> 
 <li> szeretném a kiválasztott könyvet magánkönyvtáramhoz adni </li> 
 <li> szeretném a kiválasztott könyvet kedvencnek jelölni </li>
+<li> szeretném profiladataimat szerkeszteni </li>
+<li> szeretnék kijelentkezni </li>
 </ul></p>
+
+
 
 <b>Nem funkcionális követelmények: </b>
 <ul>
@@ -83,6 +85,4 @@ könyvnek minősített.</li>
 <li> <b> GET/profile/:favorites:</b> kedvenc könyvek megtekintése</li> 
 <li> <b> GET/profile/:own: </b> saját könyvek megtekintése</li> 
 <li> <b> GET/profile/:read:</b> olvasott könyvek megtekintése</li> 
-
-
 </ul>
