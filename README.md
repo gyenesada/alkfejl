@@ -77,9 +77,9 @@ könyvnek minősített.</li>
 ![Új könyv foly.](imgs/first.png)
 <p>Könyvvel való viszony szerkesztése felhasználók számára</p>
 ![fav/own/read](imgs/second.png)
-<p>Új könyv felvitelének folyamata</p> 
-![új könyv](imgs/third.png)
-<p><i>Hasonló sémára működik továbbá: Új idézet felvitele, profiladatok szerkesztése</i></p>
+<p>Felhasználó számára elérhető lehetőségek</p> 
+![Lehetőségek](imgs/third.png)
+<p><i>Lehetőségekbe beletartozik: Új könyv felvitele, Új idézet felvitele, profiladatok szerkesztése, kedvenc könyvek megtekintése, magánkönyvtár megtekintése, olvasott könyvek megtekintése</i></p>
 
 <p><b>Végpontok</b><p>
 <ul>
